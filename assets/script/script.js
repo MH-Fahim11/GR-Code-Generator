@@ -6,7 +6,7 @@ btnCreate.onclick = () => {
     if(content.value == '') return image.src= 'assets/images/no-image.png';
     else{
         image.src= 'assets/images/load-loading.gif';
-        setTimeout(qrCode, 100);
+        setTimeout(qrCode, 1000);
     }
 }
 
