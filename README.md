@@ -1,1 +1,1 @@
-# GR-Code-Generator
+# QR-Code-Generator
