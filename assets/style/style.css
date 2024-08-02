@@ -54,4 +54,9 @@ body{
     margin-top: 10px;
     border-radius: 5px;
     font-weight: bold;
+    font-size: large;
+}
+.form button:hover{
+    cursor: pointer;
+    background-color: #2aca8e;
 }
