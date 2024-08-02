@@ -5,8 +5,8 @@ let btnCreate = document.getElementById('btnCreate');
 btnCreate.onclick = () => {
     if(content.value == '') return image.src= 'assets/images/no-image.png';
     else{
-        image.src= 'assets/images/load-loading.gif';
-        setTimeout(qrCode, 1000);
+        image.src= 'assets/images/R.gif';
+        setTimeout(qrCode, 100);
     }
 }
 
